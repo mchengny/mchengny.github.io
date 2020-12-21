@@ -3,5 +3,5 @@ logo: imgs/logo.png
 #description: Minimal is a theme for GitHub Pages.
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
