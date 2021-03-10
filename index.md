@@ -10,13 +10,11 @@ My research interests include affective computing, multi-modal behavior analysis
 
 __The University of Hong Kong__  `Hong Kong, China (2018-2019) `
 
-- M.S. in Electrical and Electronic Engineering
-
-
+- M.E. in Electrical and Electronic Engineering
 
 __China Jiliang University__  `Hangzhou, China (2014 - 2018)`
 
-- M.E. in Measuring and Control Technologies and Instruments
+- B.E. in Measuring and Control Technologies and Instruments
 
 
 
