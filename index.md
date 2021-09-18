@@ -1,12 +1,16 @@
 ## Biography
 
-I am currently a research assistant at Duke Kunshan University, under the research supervision of [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). 
+I am a Ph.D. student at Wuhan University, under the research supervision of [Prof. Ming Li](https://scholars.duke.edu/person/MingLi). 
 
-My research interests include affective computing, multi-modal behavior analysis, and applications between AI and psychology. 
+My research interests include affective computing, multi-modal behavior analysis, and speaker diarization.
 
 
 
 ## Education
+
+__Wuhan University__  `Wuhan, China (2021-Present) `
+
+- Ph.D. student in Computer Science
 
 __The University of Hong Kong__  `Hong Kong, China (2018-2019) `
 
